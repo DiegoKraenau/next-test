@@ -1,0 +1,3 @@
+declare Prueba {
+    name: String
+}
